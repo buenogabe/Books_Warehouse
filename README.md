@@ -4,6 +4,6 @@
 under- HardcoverBook and PaperbackBook. Books are stored in the Warehouse class using LinkedList data structure. Program has 2 functions. LIST all books in the wareouse and 
 FIND book given ISBN. To run the program-
 
-"./proj04 '<input file>' find '<isbn>' "
+"./proj04 (input file) find (isbn) "
   
-" ./proj04 '<input file>' list"
+" ./proj04 (input file) list"
